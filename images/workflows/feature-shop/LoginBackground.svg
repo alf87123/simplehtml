@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="1281px" viewBox="0 0 1920 1281" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 33</title>
+    <g id="Basket-&amp;-Checkout" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-33">
+            <polygon id="vv" fill="#94001D" points="0 -2.79543423e-11 1920 -1.32033485e-12 1920 1280 0 1280"></polygon>
+            <polygon id="hero-image" fill="#89001A" transform="translate(959.500000, 950.000000) scale(-1, -1) rotate(90.000000) translate(-959.500000, -950.000000) " points="629 -9 1290 -9 953.370162 1909 629 1909"></polygon>
+            <polygon id="hero-image" fill="#6C0619" opacity="0.400000006" transform="translate(1627.500000, 683.500000) scale(-1, 1) rotate(-90.000000) translate(-1627.500000, -683.500000) " points="1031 391 2224 391 1031 976"></polygon>
+        </g>
+    </g>
+</svg>
